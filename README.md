@@ -31,7 +31,7 @@ Analysis of 1,000,000 e-commerce transaction records to identify which factors â
 Across five variables tested, only **shipping time** showed a meaningful relationship with returns. Product category, seller quality, customer location, and payment method showed no measurable effect. This suggests that improving delivery speed and reliability may reduce returns more effectively than seller vetting or category-specific interventions.
 
 ## Notebook
-See [`ecommerce_analysis.ipynb`](./ecommerce_analysis.ipynb) for full code, outputs, and step-by-step markdown commentary.
+See [`Ecommerce_analysis.ipynb`](./ecommerce_analysis.ipynb) for full code, outputs, and step-by-step markdown commentary.
 
 ## Author
 **Satyam** | [LinkedIn](https://linkedin.com/in/satyam-8b105032b) | [Portfolio](https://datavedh.in)
